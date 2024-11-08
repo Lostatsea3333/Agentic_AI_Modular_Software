@@ -1,0 +1,2 @@
+# Agentic_AI_Modular_Software
+automation_setup.sh
